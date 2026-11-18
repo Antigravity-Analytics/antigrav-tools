@@ -1,0 +1,13 @@
+{
+  "name": "antigrav-tools",
+  "owner": {
+    "name": "Antigravity Analytics"
+  },
+  "plugins": [
+    {
+      "name": "mise-tools",
+      "source": "./plugins/mise-tools",
+      "description": "Free Mise kitchen back-office checks (invoice check, panic-spend estimate, pack unit cost) from Antigravity Analytics."
+    }
+  ]
+}
