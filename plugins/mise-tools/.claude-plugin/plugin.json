@@ -1,0 +1,5 @@
+{
+  "name": "mise-tools",
+  "description": "Free Mise kitchen back-office checks for Claude: invoice check, panic-spend estimate, and pack unit cost, from Antigravity Analytics.",
+  "version": "1.0.0"
+}
